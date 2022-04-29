@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3b94fce0df9e44c4585535e9f9f32cc9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - squareMaterial: {fileID: 2100000, guid: ff808e07f94868d42a15e496c0a0c691, type: 2}
+  - victoryScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
